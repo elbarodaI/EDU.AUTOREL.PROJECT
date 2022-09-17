@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "NODE_ENV=development next -p 3000"
+    "dev": "NODE_ENV=development next -p 3000",
+    "newComp": "node ./commands/createComponent.js"
   },
   "author": "",
   "license": "ISC",
